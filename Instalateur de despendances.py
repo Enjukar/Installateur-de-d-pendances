@@ -36,7 +36,7 @@ def check_and_install_requests():
 check_and_install_requests()
 
 # Token GitHub et informations du dépôt
-GITHUB_TOKEN = ""  # Remplace par ton propre token
+GITHUB_TOKEN = "test"  # Remplace par ton propre token
 REPO_OWNER = "Enjukar"  # Remplace par le propriétaire du dépôt (ton nom d'utilisateur ou organisation)
 REPO_NAME = "Installateur-de-d-pendances"  # Remplace par le nom de ton dépôt
 
